@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Olá. Seja Bem Vindo ao meu perfil 👋
+## Aqui você encontrará sobre tecnologia e programação. Veja os meus repositórios
 <!--
 **NicoleBranco04/NicoleBranco04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
